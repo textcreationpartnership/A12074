@@ -233,6 +233,7 @@ Whirligig.</head>
                <div n="1" type="scene">
                   <head>The Scene in London.</head>
                   <stage>Enter Cupid.</stage>
+                  <sp>
                   <l>VVIth feathered speede I pierc'd the Ayre,</l>
                   <l>The cloudes a sunder I did teare,</l>
                   <l>And thus with winges and bowe come I</l>
@@ -263,6 +264,7 @@ Whirligig.</head>
                   <l>In loue ile make ye sinke or swimme.</l>
                   <l>Thus farwell all, sit patient yet a while,</l>
                   <l>Least Cupid make your selues, your selues be<g ref="char:EOLhyphen"/>guile.</l>
+                  </sp>
                   <stage>
                      <pb facs="tcp:17754:4"/>
 Enter the old Lord Nonsuch Alderman Venter,
@@ -498,7 +500,7 @@ ye walke? the prouerbe saies, giue loosers leaue to talke.</p>
                   <stage>Exeunt Lady and Newcome.</stage>
                   <sp>
                      <speaker>Kni.</speaker>
-                     <p>Owages, wages, O honest wages! what other Gal<g ref="char:EOLhyphen"/>lants
+                     <p>O wages, wages, O honest wages! what other Gal<g ref="char:EOLhyphen"/>lants
 come to your Lady in my absence?</p>
                   </sp>
                   <sp>
@@ -641,6 +643,8 @@ owne wife, therefore followe mee Wages, I will
 doo't.</p>
                   </sp>
                   <stage>Exeunt omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter the Lady alone.</stage>
                   <sp>
                      <speaker>Lad.</speaker>
@@ -881,6 +885,8 @@ good, all ill: shee's marryed best that's: wedded to her
 will.</p>
                   </sp>
                   <stage>Exeunt Omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter the Young Lord.</stage>
                   <sp>
                      <speaker>Young Lo.</speaker>
@@ -1008,9 +1014,11 @@ the chamber-Maide shall know it.</p>
                </div>
             </div>
             <div n="2" type="act">
+            <head>Actus secundus </head>
                <div n="1" type="scene">
-                  <head>Actus secundus Scena prima.</head>
+                  <head>Scena prima.</head>
                   <stage>Enter Ladie alone with a Letter.</stage>
+                  <sp>
                   <p>YE haue your eyes like Sunne-glasses, catch'd the heate
 of my beautie, &amp; cast it on your owne heart, and doth
 your sighes like bellowes, make it more inflambe? then
@@ -1039,6 +1047,7 @@ doth often fall. But what shall I doe? a writes heere a will
 come: wit of a Woman now assist me, O aperne stringes be
 now auspitious, for here's my Husband, something I must
 doe: I ha't.</p>
+</sp>
                   <stage>
                      <pb facs="tcp:17754:10"/>
 Enter Knight.</stage>
@@ -1154,6 +1163,8 @@ swindge my Lord a h<gap reason="illegible" extent="1 letter">
 mens ponds.</p>
                   </sp>
                   <stage>Exeunt omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter Young Nonsuch and Wages.</stage>
                   <sp>
                      <speaker>Lor.</speaker>
@@ -1405,6 +1416,8 @@ an answere of my letter; and I will be thy pay-maister, not
 thy debter.</p>
                   </sp>
                   <stage>Exeunt.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter Nuecome, Wages and Peg.</stage>
                   <sp>
                      <speaker>Peg:</speaker>
@@ -2313,12 +2326,13 @@ for she like a candell to light others's, burnes hir selfe.</p>
 trie my wiues honestie.</p>
                   </sp>
                   <stage>Exeunt Omnes.</stage>
-                  <trailer>Finis Act. second.</trailer>
-               </div>
-            </div>
+              </div>
+                            <trailer>Finis Act. second.</trailer>
+   </div>
             <div n="3" type="act">
+            <head>Actus Ter.</head>
                <div n="1" type="scene">
-                  <head>Actus Ter. scena prima</head>
+                  <head>scena prima</head>
                   <stage>Enter young Nonsuch like a begging Soldi<gap reason="illegible" extent="1 letter">
                         <desc>•</desc>
                      </gap>r.</stage>
@@ -2976,6 +2990,8 @@ doe you two follow me.</p>
                   <stage>Exeunt 3 <gap reason="illegible" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> one doore, and the Baud at the other.</stage>
+                     </div>
+                     <div type="scene">
                   <stage>Enter Peg and Nan.</stage>
                   <sp>
                      <speaker>Na.</speaker>
@@ -3172,7 +3188,9 @@ would not taste a morsell of a men for any money.</p>
                            <desc>〈◊〉</desc>
                         </gap> my bellie.</p>
                   </sp>
-                  <stage>Exeunt amnes.</stage>
+                  <stage>Exeunt omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter Lady and Slacke after her.</stage>
                   <sp>
                      <speaker>La.</speaker>
@@ -3554,8 +3572,9 @@ immediately.</p>
                </div>
             </div>
             <div n="4" type="act">
+            <head>Actus Quarti,</head>
                <div n="1" type="scene">
-                  <head>Actus Quarti, Scena prima.</head>
+                  <head>Scena prima.</head>
                   <stage>Enter Knight and Slacke.</stage>
                   <sp>
                      <speaker>Kni:</speaker>
@@ -4293,12 +4312,10 @@ For this knowe, a VVomans heart will soone re<g ref="char:EOLhyphen"/>lent.</p>
                      <l>And Wages, thy paines deserues to be requited,</l>
                      <l>For separated hearts, hast thou vnited.</l>
                   </sp>
-                  <stage>Exeunt omne<gap reason="illegible" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>.</stage>
-                  <stage>E<gap reason="illegible" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>ter Nuecome singing with a Glasse in his hand, and
+                  <stage>Exeunt omnes.</stage>
+                  </div>
+                  <div type="scene">
+                  <stage>Enter Nuecome singing with a Glasse in his hand, and
 making himselfe ready.</stage>
                   <sp>
                      <speaker>Nan.</speaker>
@@ -4629,7 +4646,9 @@ now or neuer.</p>
                   <sp>
                      <speaker>Cap:</speaker>
                      <p>Gods pretious woman, he hath a pistoll, a sword no
-shield against a bullet.
+shield against a bullet.</p></sp>
+<sp>
+<p><gap reason="missing" extent="2 pages"><desc>〈2 pages missing〉</desc></gap>
 <pb facs="tcp:17754:33"/>
 receiue, &amp; then to haue, hold, manure &amp; occupie in statu
 quo pri<gap reason="illegible" extent="1 letter">
@@ -4819,9 +4838,10 @@ conduct you to your lodging my selfe, but feare nothing.</p>
                </div>
             </div>
             <div n="5" type="act">
+            <head>Actus Quinti </head>
                <div n="1" type="scene">
                   <pb facs="tcp:17754:34"/>
-                  <head>Actus Quinti Scaena prima.</head>
+                  <head>Scaena prima.</head>
                   <stage>Enter Knight and Slacke.</stage>
                   <sp>
                      <speaker>Sla.</speaker>
@@ -5093,6 +5113,8 @@ scone hast sped,</p>
                      <p>For houres seeme yeares, till it be published.</p>
                   </sp>
                   <stage>Exeunt Omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter Lady, Na<gap reason="illegible" extent="1 letter">
                         <desc>•</desc>
                      </gap>, and Peg.</stage>
@@ -5302,6 +5324,8 @@ the worst doe fall, that euer did fall,</p>
                      <p>A plots in chace that shall out strip them al</p>
                   </sp>
                   <stage>Exeunt. Omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter Knight and Cupid before him.</stage>
                   <sp>
                      <speaker>Kni:</speaker>
@@ -5596,6 +5620,8 @@ know, you will preuaile.</p>
                      <l>Loue makes not fooles wise men, but wise men fooles.</l>
                   </sp>
                   <stage>Exeunt omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter foure Boyes.</stage>
                   <sp>
                      <speaker>1.</speaker>
@@ -5837,8 +5863,11 @@ vnto you all my Maisters, <hi>reuerere Maiores:</hi> plucke off your
 Hats to your betters, and looke yee giue the Woman the
 wall, and so goe your wayes.</p>
                   </sp>
-                  <stage>Omnes Gratias: Gratias: Gratias: Gratias: Exeunt omnes
-Schollars.</stage>
+                  <sp>
+                  <speaker>Omnes</speaker>
+                  <p>Gratias: Gratias: Gratias: Gratias:</p>
+                  </sp>
+                  <stage> Exeunt omnes Schollars.</stage>
                   <stage>Enter Mistris Correction.</stage>
                   <sp>
                      <speaker>Wages.</speaker>
@@ -5932,6 +5961,8 @@ I set them together, they make worke for thee.</p>
 be it at midnight, if they send for me.</p>
                   </sp>
                   <stage>Exeunt omnes.</stage>
+                  </div>
+                  <div type="scene">
                   <stage>Enter Ladie, Nan, and Peg.</stage>
                   <sp>
                      <speaker>Ladie.</speaker>
@@ -6161,6 +6192,8 @@ away, I feare out louers doe our comming stay.</p>
                   <stage>Exeunt O <gap reason="illegible" extent="1 letter">
                         <desc>•</desc>
                      </gap>.</stage>
+                     </div>
+                     <div type="scene">
                   <stage>Enter the old Lord, and the Marchant.</stage>
                   <sp>
                      <speaker>Old Lord:</speaker>
